@@ -10,6 +10,10 @@ This is a Webpack starter.
 npm install
 ```
 
+```
+npm run dev
+```
+
 ## Authors
 
 * RT Sullivan (https://github.com/RTWhySoSerious)

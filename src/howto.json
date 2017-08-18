@@ -2,3 +2,4 @@ npm install css-loader --save-dev
 npm install style-loader --save-dev
 npm install sass-loader node-sass webpack --save-dev
 npm install extract-text-webpack-plugin -D
+npm install webpack-dev-server -D
